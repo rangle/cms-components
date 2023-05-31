@@ -1,6 +1,8 @@
-# CMS Components Repository
+# CMS Components Catalog
 
 This is a collection of components that we've collected over the years from various headless CMS projects. It includes commonly used atomic components like `CTA` and `Image`, as well as commonly used Page Modules that we often rebuild like `Media Modules` and other content blocks. All the components are built using Next.js, leveraging Next.js components like `Link` and `Image`. Feel free to reference or copy any of the components in this repo and customize it to your use case! Looking to contribute a new component? Put up a PR, don't forget to add your component to Storybook!
+
+Take a look at the entire catalog of components in Storybook: https://main--64776d9924c02380db13d702.chromatic.com
 
 ## Getting Started
 
